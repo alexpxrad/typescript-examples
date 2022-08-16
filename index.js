@@ -60,3 +60,4 @@ var me = {
     //bloodType: bloodType.aPositive,  the question mark makes the property optional and not required
     height: 6 * 12
 };
+console.log({ me: me });

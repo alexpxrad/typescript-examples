@@ -95,3 +95,5 @@ const me : human = {
     height: 6 * 12
   
 }
+
+console.log({me})
