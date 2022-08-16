@@ -91,7 +91,7 @@ interface human {
 const me : human = { 
     name: "bobby",
     age: 49,
-    //bloodType: bloodType.aPositive,
+    //bloodType: bloodType.aPositive,  the question mark makes the property optional and not required
     height: 6 * 12
   
 }
